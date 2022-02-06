@@ -9,7 +9,11 @@ Built the back end to an e-commerce site. E-commerce is also know as internet re
 * MySQL2
 * Dotenv
 
-### Walkthrough video of application
+### Walkthrough video: Startup of app, seed database in commandline, and schema in MySQL shell:
 
-### Pictures of application in Insomnia
+https://watch.screencastify.com/v/N5oaecfRAXoqSoFljNn7
+
+### Walkthrough video: GET, POST, PUT, and DELETE routes in Insomnia:
+
+https://watch.screencastify.com/v/BQw9FrNQwlBlAu9USoSb 
 
